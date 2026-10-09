@@ -1,4 +1,4 @@
-// Ejercicio 2: Piedra, papel o tijera
+
 let jugador1 = "Piedra";
 let jugador2 = "Tijera";
 

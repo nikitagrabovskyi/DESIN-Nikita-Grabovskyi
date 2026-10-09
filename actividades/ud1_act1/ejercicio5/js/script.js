@@ -1,5 +1,4 @@
-// Ejercicio 5: la función recibe un objeto literal con las jugadas.
-// AMPLIACIÓN: la lógica está en un objeto que indica qué jugada gana a cuál.
+
 let jugadas = {
     Piedra: "Tijera",
     Tijera: "Papel",
